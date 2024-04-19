@@ -7,125 +7,119 @@ editor: visual
 
 ## What is R Café?
 
-- Group of R users at UMass Chan Medical School who meet monthly (online or in-person) to share R skills we've learned, cool R projects, troubleshoot code, and ask questions
-- Started June 2022
-- 16 gatherings so far (attendance ranging from 31-6, median of 9 people)
+-   Group of R users at UMass Chan Medical School who meet monthly (online or in-person) to share R skills we've learned, cool R projects, troubleshoot code, and ask questions
+-   Started June 2022
+-   16 gatherings so far (attendance ranging from 31-6, median of 9 people)
 
 ![](https://libapps.s3.amazonaws.com/customers/3713/images/R_Cafe_logo.png){fig-alt="R Café logo"}
 
 ## Topics covered
-:::: {.columns}
-::: {.column}
-- Creating slides in R
-- Intro to R
-- Intro to Tidyverse
-- Creating your own functions and keeping your code DRY
-- Creating visualizations with ggplot2
-- Using REDCap API with R
-- For loops and loop-like functions in R
+
+::: columns
+::: column
+-   Creating slides in R
+-   Intro to R
+-   Intro to Tidyverse
+-   Creating your own functions and keeping your code DRY
+-   Creating visualizations with ggplot2
+-   Using REDCap API with R
+-   For loops and loop-like functions in R
 :::
-::: {.column}
-- R/Medicine highlights
-- Intro to Shiny
-- R features that were thankful for
-- Stack Overflow, creating reproducible code for sharing, and debugging tools
-- Lubridate and faceting
-- R project demos
-- Feedback on Intro to R class
+
+::: column
+-   R/Medicine highlights
+-   Intro to Shiny
+-   R features that were thankful for
+-   Stack Overflow, creating reproducible code for sharing, and debugging tools
+-   Lubridate and faceting
+-   R project demos
+-   Feedback on Intro to R class
 :::
-::::
+:::
 
 ## How did the partnership come about?
-- Ben, new faculty member, came for a tour of the library and was told that he should meet Tess, who was not there that day
-- Set up a meeting. Discovered that we had a joint interest in promoting and supporting R coding on campus.
-  - Ben and Tess both have experience teaching R and interest in supporting research reproducibility 
+
+-   Ben, new faculty member, came for a tour of the library and was told that he should meet Tess, who was not there that day
+-   Set up a meeting. Discovered that we had a joint interest in promoting and supporting R coding on campus.
+    -   Ben and Tess both have experience teaching R and interest in supporting research reproducibility
 
 ## Ben, what were you looking for from the library?
-- Looking for stability and structure of the library 
-  - Library has existing connections and broader view (outside department)
-- Interested in institutional and data repositories
-- Interested in NIH requirements for grants
-- Library knowledge of electronic resources and administering access
-- Centralized physical location
+
+-   Looking for stability and structure of the library
+    -   Library has existing connections and broader view (outside department)
+-   Interested in institutional and data repositories
+-   Interested in NIH requirements for grants
+-   Library knowledge of electronic resources and administering access
+-   Centralized physical location
 
 ## Ben, what did the library bring to the partnership?
-- Tess knew the resources, workflow, marketing channels, and how to coordinate events
-- Administered DataCamp access
-- Teaching experience (recording, running Zoom, video editing)
-- Existing Github repository
-- Created centralized virtual location for all materials
+
+-   Tess knew the resources, workflow, marketing channels, and how to coordinate events
+-   Administered DataCamp access
+-   Teaching experience (recording, running Zoom, video editing)
+-   Existing Github repository
+-   Created centralized virtual location for all materials
 
 ## R Café Webpage
+
 ![](RCafeHomepage.png){fig-alt="R Café homepage with R Café logo; group description; contact information for hosts; future R Cafe gathering dates, times, and topics; recordings from past gatherings; link to learning resources; and DataCamp signup."}
 
 ## What worked well?
-- Blending of expertise:
-  - Ben has a lot of experience in R, particularly applying it to medical research
-  - Tess has a lot of experience in program planning at UMass Chan
-- Website: Making materials available
-- Hosting gatherings monthly and advertising each one
+
+-   Blending of expertise:
+    -   Ben has a lot of experience in R, particularly applying it to medical research
+    -   Tess has a lot of experience in program planning at UMass Chan
+-   Website: Making materials available
+-   Hosting gatherings monthly and advertising each one
 
 ## What takeaways would you share from the collaboration?
-- Good communication is key with regular check-ins before the after each gathering
-- Centralized materials and outputs
-- Being flexible: 
-  - In-person --> Online
-  - Quarterly --> Monthly
-  - Giving time for people to do their own coding --> All demo and questions
+
+-   Good communication is key with regular check-ins before the after each gathering
+-   Centralized materials and outputs
+-   Being flexible:
+    -   In-person --\> Online
+    -   Quarterly --\> Monthly
+    -   Giving time for people to do their own coding --\> All demo and questions
 
 ## Tess, what are your tips for partnering with the research community?
-- Find out what form of communication works best for the researcher(s)
-- Administrators are your friends
-- Plan for meetings in advance
+
+-   Find out what form of communication works best for the researcher(s)
+-   Administrators are your friends
+-   Plan for meetings in advance
 
 ## Ben, what advice would you give librarians for working with researchers?
-- Communication
-  - Be proactive in anticipating needs
-  - Brief communications preferable to long meetings
-- Provide structure
-  - Centralized resources
-  - Follow-up
-  - Regular meeting times
-- Find common interest
-  - Passion for training students and trainees
-  - Innovation and creativity
+
+-   Communication
+    -   Be proactive in anticipating needs
+    -   Brief communications preferable to long meetings
+-   Provide structure
+    -   Centralized resources
+    -   Follow-up
+    -   Regular meeting times
+-   Find common interest
+    -   Passion for training students and trainees
+    -   Innovation and creativity
 
 ## Ben, what would you tell your colleagues about working with the library?
-- We're so lucky to have a wonderful library with wonderful librarians
-- Colleagues tend to under-utilize and don't realize the resources the library has
-- As researchers, we must constantly deal with issues of data sharing and research: Useful to have librarians that are up to date on these policies
+
+-   We're so lucky to have a wonderful library with wonderful librarians
+-   Colleagues tend to under-utilize and don't realize the resources the library has
+-   As researchers, we must constantly deal with issues of data sharing and research: Useful to have librarians that are up to date on these policies
 
 ## Other collaborations that arose from this project:
-- NIH Data Management and Sharing Policy Support
-- All of Us Research
-- Providing more support for R
-- Data Science rotation for the Clinical Informatics Fellowship
-- U-Match website for listing avilable research projects for students at UMass Chan
+
+-   NIH Data Management and Sharing Policy Support
+-   All of Us Research
+-   Providing more support for R
+-   Data Science rotation for the Clinical Informatics Fellowship
+-   U-Match website for listing available research projects for students at UMass Chan
 
 ## R/Medicine
-![](https://rconsortium.github.io/RMedicine_website/images/Main.png){fig-alt="R/Medicine 2024 header with text: An R Consortium Conference. June 10-14, 2024. Virtual conference. #RMED24"}
-[https://rconsortium.github.io/RMedicine_website/](https://rconsortium.github.io/RMedicine_website/)
+
+![](https://rconsortium.github.io/RMedicine_website/images/Main.png){fig-alt="R/Medicine 2024 header with text: An R Consortium Conference. June 10-14, 2024. Virtual conference. #RMED24"} <https://rconsortium.github.io/RMedicine_website/>
 
 ## Questions? Contact us
-Ben Gerber
-[Ben.Gerber@umassmed.edu](mailto:Ben.Gerber@umassmed.edu)
 
-Tess Grynoch
-[Tess.Grynoch@umassmed.edu](mailto:Tess.Grynoch@umassmed.edu)
+Ben Gerber [Ben.Gerber\@umassmed.edu](mailto:Ben.Gerber@umassmed.edu)
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+Tess Grynoch [Tess.Grynoch\@umassmed.edu](mailto:Tess.Grynoch@umassmed.edu)
