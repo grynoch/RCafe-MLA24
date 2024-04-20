@@ -1,17 +1,27 @@
 ---
 title: "R Café at UMass Chan"
 author: "Tess Grynoch & Ben Gerber"
-format: pptx
+format: 
+  pptx:
+    resource-path: [./images]
 editor: visual
 ---
 
 ## What is R Café?
 
--   Group of R users at UMass Chan Medical School who meet monthly (online or in-person) to share R skills we've learned, cool R projects, troubleshoot code, and ask questions
+::: columns
+::: {.column width="60%"}
+-   R users at UMass Chan Medical School
+-   Meet monthly (online or in-person)
+-   Share skills and cool projects, troubleshoot code, ask questions
 -   Started June 2022
--   16 gatherings so far (attendance ranging from 31-6, median of 9 people)
+-   16 gatherings so far (attendance 31-6, median of 9 people)
+:::
 
+::: {.column width="40%"}
 ![](https://libapps.s3.amazonaws.com/customers/3713/images/R_Cafe_logo.png){fig-alt="R Café logo"}
+:::
+:::
 
 ## Topics covered
 
@@ -20,45 +30,68 @@ editor: visual
 -   Creating slides in R
 -   Intro to R
 -   Intro to Tidyverse
--   Creating your own functions and keeping your code DRY
--   Creating visualizations with ggplot2
--   Using REDCap API with R
--   For loops and loop-like functions in R
+-   Intro to Shiny
+-   Visualizations with ggplot2
+-   REDCap API with R
+-   For loops and loop-like functions
 :::
 
 ::: column
 -   R/Medicine highlights
--   Intro to Shiny
+-   Custom functions, keeping code DRY
 -   R features that were thankful for
--   Stack Overflow, creating reproducible code for sharing, and debugging tools
+-   Stack Overflow, reproducible workflow, debugging
 -   Lubridate and faceting
 -   R project demos
--   Feedback on Intro to R class
 :::
 :::
 
 ## How did the partnership come about?
 
--   Ben, new faculty member, came for a tour of the library and was told that he should meet Tess, who was not there that day
--   Set up a meeting. Discovered that we had a joint interest in promoting and supporting R coding on campus.
-    -   Ben and Tess both have experience teaching R and interest in supporting research reproducibility
+::: columns
+::: {.column width="50%"}
+-   Ben toured the library
+-   Joint interest in promoting R coding
+-   Shared experience teaching R and research reproducibility
+:::
+
+::: {.column width="50%"}
+![](https://posit.cloud/images/guide/qsShinyCode.png){fig-alt="Image of Shiny App in R"}
+:::
+:::
 
 ## Ben, what were you looking for from the library?
 
--   Looking for stability and structure of the library
-    -   Library has existing connections and broader view (outside department)
+::: columns
+::: {.column width="50%"}
+-   Stability and structure
+    -   Existing connections and broader view (outside department)
 -   Interested in institutional and data repositories
 -   Interested in NIH requirements for grants
--   Library knowledge of electronic resources and administering access
--   Centralized physical location
+-   Knowledge of electronic resources and administering access
+-   Centralized location
+:::
+
+::: {.column width="50%"}
+![](images/research_cycle.png){fig-alt="image of research cycle"}
+:::
+:::
 
 ## Ben, what did the library bring to the partnership?
 
--   Tess knew the resources, workflow, marketing channels, and how to coordinate events
+::: columns
+::: {.column width="50%"}
+-   Tess knew resources, workflow, marketing channels, and event coordination
 -   Administered DataCamp access
 -   Teaching experience (recording, running Zoom, video editing)
 -   Existing Github repository
--   Created centralized virtual location for all materials
+-   Centralized virtual location for materials
+:::
+
+::: {.column width="50%"}
+![](images/github_screen_capture.png){fig-alt="github image for R Cafe"}
+:::
+:::
 
 ## R Café Webpage
 
