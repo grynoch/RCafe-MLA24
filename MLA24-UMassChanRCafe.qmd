@@ -39,7 +39,7 @@ editor: visual
 ::: column
 -   R/Medicine highlights
 -   Custom functions, keeping code DRY
--   R features that were thankful for
+-   R features that we're thankful for
 -   Stack Overflow, reproducible workflow, debugging
 -   Lubridate and faceting
 -   R project demos
@@ -56,7 +56,7 @@ editor: visual
 :::
 
 ::: {.column width="50%"}
-![](https://posit.cloud/images/guide/qsShinyCode.png){fig-alt="Image of Shiny App in R"}
+![](https://posit.cloud/images/guide/qsShinyCode.png){fig-alt="Code for Shiny App in R for Old Faithful Geyser Data"}
 :::
 :::
 
@@ -73,7 +73,7 @@ editor: visual
 :::
 
 ::: {.column width="50%"}
-![](images/research_cycle.png){fig-alt="image of research cycle"}
+![](images/research_cycle.png){fig-alt="Research cycle: Plan and design; Collect and capture; Collaborate and analyse; Manage, store, and preserve; Share and publish; Discover, Reuse, & Cite"}
 :::
 :::
 
@@ -89,13 +89,13 @@ editor: visual
 :::
 
 ::: {.column width="50%"}
-![](images/github_screen_capture.png){fig-alt="github image for R Cafe"}
+![](images/github_screen_capture.png){fig-alt="github homepage for R Cafe MLA presentation"}
 :::
 :::
 
 ## R Café Webpage
 
-![](RCafeHomepage.png){fig-alt="R Café homepage with R Café logo; group description; contact information for hosts; future R Cafe gathering dates, times, and topics; recordings from past gatherings; link to learning resources; and DataCamp signup."}
+![](images/RCafeHomepage.png){fig-alt="R Café homepage with R Café logo; group description; contact information for hosts; future R Cafe gathering dates, times, and topics; recordings from past gatherings; link to learning resources; and DataCamp signup."}
 
 ## What worked well?
 
