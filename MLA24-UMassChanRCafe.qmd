@@ -64,10 +64,9 @@ editor: visual
 
 ::: columns
 ::: {.column width="50%"}
+-   Interested in institutional and data repositories, NIH grant requirements
 -   Stability and structure
     -   Existing connections and broader view (outside department)
--   Interested in institutional and data repositories
--   Interested in NIH requirements for grants
 -   Knowledge of electronic resources and administering access
 -   Centralized location
 :::
@@ -81,10 +80,10 @@ editor: visual
 
 ::: columns
 ::: {.column width="50%"}
+-   Existing Github repository
 -   Tess knew resources, workflow, marketing channels, and event coordination
 -   Administered DataCamp access
 -   Teaching experience (recording, running Zoom, video editing)
--   Existing Github repository
 -   Centralized virtual location for materials
 :::
 
@@ -99,20 +98,36 @@ editor: visual
 
 ## What worked well?
 
+::: columns
+::: {.column width="50%"}
 -   Blending of expertise:
-    -   Ben has a lot of experience in R, particularly applying it to medical research
-    -   Tess has a lot of experience in program planning at UMass Chan
+    -   Ben has experience in R and applying it to medical research
+    -   Tess has experience in program planning at UMass Chan
 -   Website: Making materials available
 -   Hosting gatherings monthly and advertising each one
+:::
+
+::: {.column width="50%"}
+![](images/R_cafe_electronic_sign.png){fig-alt="R Cafe Advertisement"}
+:::
+:::
 
 ## What takeaways would you share from the collaboration?
 
--   Good communication is key with regular check-ins before the after each gathering
+::: columns
+::: {.column width="50%"}
+-   Good communication with check-ins before/after gatherings
 -   Centralized materials and outputs
 -   Being flexible:
     -   In-person --\> Online
     -   Quarterly --\> Monthly
     -   Giving time for people to do their own coding --\> All demo and questions
+:::
+
+::: {.column width="50%"}
+![](images/umass_chan_zoom.png){fig-alt="Students using Zoom at UMass Chan"}
+:::
+:::
 
 ## Tess, what are your tips for partnering with the research community?
 
@@ -123,11 +138,10 @@ editor: visual
 ## Ben, what advice would you give librarians for working with researchers?
 
 -   Communication
-    -   Be proactive in anticipating needs
+    -   Be proactive in anticipating needs and follow up
     -   Brief communications preferable to long meetings
 -   Provide structure
     -   Centralized resources
-    -   Follow-up
     -   Regular meeting times
 -   Find common interest
     -   Passion for training students and trainees
@@ -135,17 +149,32 @@ editor: visual
 
 ## Ben, what would you tell your colleagues about working with the library?
 
--   We're so lucky to have a wonderful library with wonderful librarians
--   Colleagues tend to under-utilize and don't realize the resources the library has
--   As researchers, we must constantly deal with issues of data sharing and research: Useful to have librarians that are up to date on these policies
+::: columns
+::: {.column width="50%"}
+-   Lucky to have a wonderful library (with wonderful librarians)
+-   Librarians up to date on policies (e.g., data sharing)
+-   Colleagues under-utilize (don't know library resources)
+:::
+
+::: {.column width="50%"}
+![](images/nih_data_sharing_policy.png){fig-alt="NIH Data Sharing Policy"}
+:::
+:::
 
 ## Other collaborations that arose from this project:
 
+::: columns
+::: {.column width="50%"}
+-   All of Us Research Workbench
 -   NIH Data Management and Sharing Policy Support
--   All of Us Research
--   Providing more support for R
 -   Data Science rotation for the Clinical Informatics Fellowship
--   U-Match website for listing available research projects for students at UMass Chan
+-   U-Match website for listing available research projects for UMass Chan students
+:::
+
+::: {.column width="50%"}
+![](images/all_of_us_workbench.gif){fig-alt="All of Us Workbench"}
+:::
+:::
 
 ## R/Medicine
 
