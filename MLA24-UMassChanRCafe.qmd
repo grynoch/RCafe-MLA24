@@ -1,5 +1,8 @@
 ---
 title: "R Café at UMass Chan"
+title-slide-attributes: 
+  data-background-image: "/images/UMassChan_Horizontal_2Color.png"
+  data-background-size: "contain"
 author: "Tess Grynoch & Ben Gerber"
 format: 
   pptx:
@@ -178,10 +181,10 @@ editor: visual
 
 ## R/Medicine
 
-![](https://rconsortium.github.io/RMedicine_website/images/Main.png){fig-alt="R/Medicine 2024 header with text: An R Consortium Conference. June 10-14, 2024. Virtual conference. #RMED24"} <https://rconsortium.github.io/RMedicine_website/>
+![<https://rconsortium.github.io/RMedicine_website/>](https://rconsortium.github.io/RMedicine_website/images/Main.png){fig-alt="R/Medicine 2024 header with text: An R Consortium Conference. June 10-14, 2024. Virtual conference. #RMED24"}
 
 ## Questions? Contact us
 
 Ben Gerber [Ben.Gerber\@umassmed.edu](mailto:Ben.Gerber@umassmed.edu)
 
-Tess Grynoch [Tess.Grynoch\@umassmed.edu](mailto:Tess.Grynoch@umassmed.edu)
+Tess Grynoch [Tess.Grynoch\@umassmed.edu](mailto:Tess.Grynoch@umassmed.edu) ![](images/UMassChan_Horizontal_2Color.png){fig-alt="UMass Chan Medical School"}
