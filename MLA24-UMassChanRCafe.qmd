@@ -1,13 +1,13 @@
 ---
 title: "R Café at UMass Chan"
-title-slide-attributes: 
-  data-background-image: "/images/UMassChan_Horizontal_2Color.png"
-  data-background-size: "contain"
 author: "Tess Grynoch & Ben Gerber"
 format: 
   pptx:
     resource-path: [./images]
 editor: visual
+title-slide-attributes: 
+  data-background-image: "UMassChan_Horizontal_2Color.png"
+  data-background-size: "contain"
 ---
 
 ## What is R Café?
@@ -128,7 +128,7 @@ editor: visual
 :::
 
 ::: {.column width="50%"}
-![](images/umass_chan_zoom.png){fig-alt="Students using Zoom at UMass Chan"}
+![](images/RCafe2023-12Thumbnail.png){fig-alt="Ben Gerber teaching making a great reproducible example over Zoom."}
 :::
 :::
 
@@ -187,4 +187,7 @@ editor: visual
 
 Ben Gerber [Ben.Gerber\@umassmed.edu](mailto:Ben.Gerber@umassmed.edu)
 
-Tess Grynoch [Tess.Grynoch\@umassmed.edu](mailto:Tess.Grynoch@umassmed.edu) ![](images/UMassChan_Horizontal_2Color.png){fig-alt="UMass Chan Medical School"}
+Tess Grynoch [Tess.Grynoch\@umassmed.edu](mailto:Tess.Grynoch@umassmed.edu) 
+
+![](images/UMassChan_Horizontal_2Color.png){fig-alt="UMass Chan Medical School" fig-align="center"}
+
